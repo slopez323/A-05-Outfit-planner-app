@@ -25,13 +25,12 @@ const clothing = [
     type: "top",
     dressCode: "formal",
     imageUrl:
-      "https://slimages.macysassets.com/is/image/MCY/products/8/optimized/10468918_fpx.tif?$ browse$&wid=376&fmt=webp",
+      "https://slimages.macysassets.com/is/image/MCY/products/8/optimized/10468918_fpx.tif?$browse$&wid=376&fmt=webp",
   },
   {
     description: "Alfani Short Sleeve Shirt",
     type: "top",
     dressCode: "casual",
-
     imageUrl:
       "https://slimages.macysassets.com/is/image/MCY/products/1/optimized/20929261_fpx.tif?$browse$&wid=376&fmt=webp",
   },
@@ -67,7 +66,6 @@ const clothing = [
     description: "Adidas High Top Sneakers",
     type: "shoes",
     dressCode: "sport",
-
     imageUrl:
       "https://slimages.macysassets.com/is/image/MCY/products/0/optimized/18588060_fpx.tif?op_sharpen=1&wid=1230&hei=1500&fit=fit,1&$filterxlrg$&fmt=webp",
   },
@@ -103,7 +101,6 @@ const clothing = [
     description: "Slim Fit Stretch Khaki Pants",
     type: "bottom",
     dressCode: "casual",
-
     imageUrl:
       "https://slimages.macysassets.com/is/image/MCY/products/3/optimized/10067433_fpx.tif?op_sharpen=1&wid=700&hei=855&fit=fit,1&fmt=webp",
   },

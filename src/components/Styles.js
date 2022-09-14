@@ -1,10 +1,10 @@
-const Styles = ({ setStyle }) => {
+const Styles = ({ getNewOutfit }) => {
   return (
-    <div>
+    <div className="styles">
       <h3>Fashion Styles / Dress Code</h3>
-      <button onClick={() => setStyle("casual")}>Casual</button>
-      <button onClick={() => setStyle("sport")}>Sport</button>
-      <button onClick={() => setStyle("formal")}>Formal</button>
+      <button onClick={() => getNewOutfit("casual")}>Casual</button>
+      <button onClick={() => getNewOutfit("sport")}>Sport</button>
+      <button onClick={() => getNewOutfit("formal")}>Formal</button>
     </div>
   );
 };
