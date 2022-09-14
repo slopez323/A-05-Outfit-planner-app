@@ -132,6 +132,20 @@ const clothing = [
     imageUrl:
       "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/f5bf3559e3514ebc8afeac840145abf8_9366/tiro-21-sweat-pants.jpg",
   },
+  {
+    description: "Brown formal shoes",
+    type: "shoes",
+    dressCode: "formal",
+    imageUrl:
+      "https://slimages.macysassets.com/is/image/MCY/products/3/optimized/9199563_fpx.tif?op_sharpen=1&wid=700&hei=855&fit=fit,1&fmt=webp",
+  },
+  {
+    description: "Black formal shoes",
+    type: "shoes",
+    dressCode: "formal",
+    imageUrl:
+      "https://slimages.macysassets.com/is/image/MCY/products/2/optimized/3717082_fpx.tif?op_sharpen=1&wid=700&hei=855&fit=fit,1&fmt=webp",
+  },
 ];
 
 export default clothing;
