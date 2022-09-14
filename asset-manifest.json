@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/A-05-Outfit-planner-app/static/css/main.6236aaa7.css",
+    "main.js": "/A-05-Outfit-planner-app/static/js/main.bf63f55d.js",
+    "index.html": "/A-05-Outfit-planner-app/index.html",
+    "main.6236aaa7.css.map": "/A-05-Outfit-planner-app/static/css/main.6236aaa7.css.map",
+    "main.bf63f55d.js.map": "/A-05-Outfit-planner-app/static/js/main.bf63f55d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6236aaa7.css",
+    "static/js/main.bf63f55d.js"
+  ]
+}
